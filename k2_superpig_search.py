@@ -197,7 +197,7 @@ def write_conditioned_data_file(fits_file, time, detrended_flux):
     np.savetxt(conditioned_data_file_name, zip(time, detrended_flux),
             header="EPIC%s\n%s\n%s\n" % 
             (get_epic_num(filename=fits_file), 
-                (fits_file.split('/'))[6], now), fmt="%f %1.10f") # was truncating too early!
+                (fits_file.split('/'))[-1], now), fmt="%f %1.10f") # was truncating too early!
 
     return conditioned_data_file_name
 
@@ -244,7 +244,7 @@ def write_eebls_spec_file(fits_file, freqs, eebls_spec):
     #write spectrum to file
     np.savetxt(output_file_name, zip(freqs, eebls_spec), 
             header="EPIC%s\n%s\n%s\n" % 
-            (get_epic_num(filename=fits_file), (fits_file.split('/'))[6], now),
+            (get_epic_num(filename=fits_file), (fits_file.split('/'))[-1], now),
             fmt="%f %1.10f") # again need precision!
 
     return output_file_name
