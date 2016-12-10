@@ -1,7 +1,13 @@
 superpig-public
 ===============
 
-Repository for publicly available code from the Superpig collaboration to search for ultra-short-period planets (USPs) in K2 data. Results have been published at: http://arxiv.org/abs/1603.06488
+Repository for publicly available code from the Superpig collaboration to search for ultra-short-period planets (USPs) in K2 data. Please cite our results at:
+ 	
+Ultra-short-period Planets in K2 SuPerPiG Results for Campaigns 0-5 (19 candidates), http://adsabs.harvard.edu/abs/2016AJ....152...47A
+
+Ultra Short Period Planets in K2 with companions: a double transiting system for EPIC 220674823 (1 double-planet system)
+http://adsabs.harvard.edu/abs/2016arXiv161100397A
+
 
 To run a search on a quarter of K2 data, follow these steps:
 
