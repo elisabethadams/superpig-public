@@ -1,0 +1,2 @@
+lhood_heb L_heb pr_heb lhood_heb_Px2 L_heb_Px2 pr_heb_Px2 lhood_eb L_eb pr_eb lhood_eb_Px2 L_eb_Px2 pr_eb_Px2 lhood_beb L_beb pr_beb lhood_beb_Px2 L_beb_Px2 pr_beb_Px2 lhood_pl L_pl pr_pl fpV fp FPP 
+1.17e-06 1.16e-09 3.32e-07 7.05e-03 6.66e-08 1.91e-05 7.27e-07 5.38e-09 1.55e-06 2.16e-03 3.05e-07 8.74e-05 4.63e-03 8.77e-08 2.52e-05 0.00e+00 0.00e+00 0.00e+00 5.66e-01 3.48e-03 1.00e+00 0.00578 0.218 1.34e-04

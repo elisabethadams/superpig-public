@@ -1,0 +1,36 @@
+candidate    	206298289_p2
+P	3.2157382211	(None, None)
+mt	1.61540233	(0.00280645, 0.00320737)
+mt_bjd	2456992.50972	(0.00280645, 0.00320737)
+rp	0.023174	(0.001835, 0.002752)
+a	19.739691	(5.532079, 4.840569)
+i	90.033555	(1.894553, 2.435854)
+e	0.0	(None, None)
+w	1.0	(None, None)
+ldc1	0.919706	(None, None)
+ldc2	0.097514	(None, None)
+ldc3	-0.369254	(None, None)
+ldc4	0.189292	(None, None)
+L0	0.0	(None, None)
+N0	1.00005	(8e-06, 9e-06)
+Q0	0.0	(None, None)
+planet-r_earth    	0.851	(0.108,0.121)
+star-r_sun        	0.33	(0.03,0.03)
+total_duration_hrs 	1.347	(0.28,0.58)
+In-centroid     	None	None
+Out-centroid    	None	None
+In-minus-out    	0.0	0.0
+EVEN_midtime      	1.6152775977036924	(0.002395,0.003593)
+EVEN_radius_ratio 	0.0233	(0.0019,0.0028)
+EVEN_a_over_R_star	19.3162	(5.801,5.0759)
+EVEN_inclination  	89.806	(2.035,0.185)
+ODD_midtime       	1.6152057966325302	(0.002375,0.003563)
+ODD_radius_ratio  	0.0235	(0.0018,0.0027)
+ODD_a_over_R_star 	18.6814	(4.9444,5.6507)
+ODD_inclination   	89.791	(1.908,0.1735)
+EVEN_RR - RR      	-0.000126	0.003932
+ODD_RR - RR       	-0.000368	0.003852
+ODD_RR - EVEN_RR  	0.000242	0.003893
+EVEN_RR - RR sigma	-0.03
+ODD_RR - RR sigma 	-0.1
+ODD_RR - EVEN_RR sigma	0.06
